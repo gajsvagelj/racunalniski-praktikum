@@ -4,7 +4,7 @@ Računalniški praktikum
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
 <!-- 2. nivojski razdelek -->
-Bližnjice na tipkovnici
+Bližnjice na tipkovnic
 
 Kopiraj označeno v odložišče: Ctrl+C (**C**opy)
 Izreži označeno v odložišče: Ctrl+X
